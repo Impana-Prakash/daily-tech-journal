@@ -26,4 +26,5 @@ I also made handwritten notes  to revise these concepts easily.
 Feeling confident with the basics and excited to continue learning step by step.
 
 ##  Reflection
-Every small step counts. Staying consistent is my main goal 💪
+Every small step counts. Staying consistent is my main goal 
+Updated on Day 2
