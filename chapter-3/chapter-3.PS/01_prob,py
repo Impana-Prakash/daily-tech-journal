@@ -1,0 +1,4 @@
+name = input("Enter your name: ")
+
+print(f"Good Afternoon {name} ")   #when we create "f" string then it helps in writing any variable name inside that 
+print("Good Afternoon " + name + "" )
