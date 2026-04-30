@@ -1,4 +1,3 @@
-
 #  Day 9: Java – For Loop, Break and Continue Statement
 
 Today I learned about loops in Java, especially the `for` loop, and also understood how `break` and `continue` statements control loop execution. These concepts are essential for writing efficient programs.
